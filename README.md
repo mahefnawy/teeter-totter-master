@@ -1,5 +1,7 @@
 # teeter-totter-master
 
+Project Testing Vue.js Knoweledge and Writing Website Code for games.
+
 ## Project setup
 
 ```
